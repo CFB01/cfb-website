@@ -1,0 +1,13 @@
+cfb-website/
+├── package.json
+├── pages/
+│   ├── index.js
+│   ├── about.js
+│   ├── services.js
+│   ├── contact.js
+│   └── blog.js
+├── public/
+│   └── favicon.ico
+├── styles/
+│   └── global.css
+└── next.config.js
